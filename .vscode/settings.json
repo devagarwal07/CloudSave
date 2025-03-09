@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/40a10dd8-1e66-4d46-8e97-744cbe93dd65/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/CloudSave07",
+    "appService.deploySubpath": "Finance-Tracker"
+}
