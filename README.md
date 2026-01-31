@@ -286,7 +286,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Support
 
-For support, email support@cloudsave.com or open an issue in the GitHub repository.
+If you encounter any issues or have questions, please open an issue in the [GitHub repository](https://github.com/devagarwal07/CloudSave/issues).
 
 ## 🚧 Future Enhancements
 
