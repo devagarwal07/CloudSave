@@ -114,7 +114,8 @@ npm install
 ### Email Configuration
 Configure your email service credentials in the `.env` file to enable email notifications:
 - Use Gmail, Outlook, or any SMTP service
-- For Gmail, you may need to enable "Less secure app access" or use an App Password
+- For Gmail, you must use an [App Password](https://support.google.com/accounts/answer/185833) (2-Step Verification required)
+- Alternatively, configure OAuth 2.0 for more secure authentication
 
 ## 🏃‍♂️ Running the Application
 
